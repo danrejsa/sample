@@ -1,2 +1,2 @@
 # my App 
-** This is my App! I am very excited
+** This is my first sample App! 
